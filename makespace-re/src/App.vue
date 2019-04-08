@@ -37,6 +37,7 @@
 export default {
     data() {
       return {
+        aaa:'',
         rulesLogin:{
           username:[
             {required:true,message:'请输入用户名',trigger:'change'}
